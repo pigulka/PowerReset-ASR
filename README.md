@@ -16,9 +16,9 @@
 
 - ESP32 (np. ESP32-WROOM-32)
 - W5500 Ethernet Module
-- TFT 1.8” SPI
+- opcjonalnie TFT 1.8” SPI
 - Przekaźniki (np. moduły 5V)
-- Zasilanie 3.7V–5V (np. akumulator z BMS)
+- Zasilanie Przetwornica 48V/5V 
 - Inne komponenty: przyciski, diody LED, transoptory
 
 ## Zrzuty ekranu
