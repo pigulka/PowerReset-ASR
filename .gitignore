@@ -1,0 +1,31 @@
+# Arduino pliki tymczasowe
+*.bin
+*.elf
+*.hex
+*.map
+*.d
+*.dep
+*.o
+*.pyc
+*.class
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PlatformIO
+.pio/
+*.pio
+*.pioenvs/
+*.piolibdeps/
+*.sconsign.dblite
+
+# systemowe
+.DS_Store
+Thumbs.db
+
+# backupy
+*.bak
+*.tmp
+*.swp
+*.swo
