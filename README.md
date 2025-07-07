@@ -1,6 +1,6 @@
 # PowerReset ASR
 
-**PowerReset ASR** (Automatic System Restart) to projekt oparty na ESP32 z modułem Ethernet (W5500) oraz wyświetlaczem TFT. Urządzenie umożliwia automatyczne zarządzanie restartem urządzeń oraz diagnostyką systemu.
+**PowerReset ASR** (Automatic System Restart) to projekt oparty na ESP32 z modułem Ethernet (W5500) oraz wyświetlaczem TFT. Urządzenie umożliwia automatyczne i zdalne zarządzanie restartem urządzeń oraz diagnostyką systemu.
 
 ## Główne funkcje
 
