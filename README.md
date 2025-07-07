@@ -11,6 +11,8 @@
 - Aktualizacja firmware przez przeglądarkę
 - Logowanie zdarzeń do SPIFFS
 - Synchronizacja czasu z serwerem TCP/NTP
+- Interfejs telnet
+- ...
 
 ## Wymagania sprzętowe
 
